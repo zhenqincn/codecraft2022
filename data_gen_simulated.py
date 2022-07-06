@@ -7,7 +7,7 @@ import sys
 from random import shuffle
 import numpy as np
 
-
+asd = 123
 record = None
 server_num, client_num, time_len = 0, 0, 0
 pressure = 0.3
