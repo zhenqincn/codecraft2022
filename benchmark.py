@@ -11,7 +11,7 @@ import mpld3
 import matplotlib.pyplot as plt
 from mpld3._server import serve as mpld3_server
 
-
+asd = 1
 cname, sname, qos, qos_lim = None, None, None, None
 client_demand = None
 bandwidth = None
